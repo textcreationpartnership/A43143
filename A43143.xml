@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English rogue containing a brief discovery of the most eminent cheats, robberies and other extravagancies by him committed ... : to which is added a canting dictionary words now in use with beggars and gypsies.</title>
+            <author>Head, Richard, 1637?-1686?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43143</idno>
+            <idno type="STC">Wing H1245</idno>
+            <idno type="STC">ESTC R17467</idno>
+            <idno type="EEBO-CITATION">13378354</idno>
+            <idno type="OCLC">ocm 13378354</idno>
+            <idno type="VID">99340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 457:16 or 2185:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English rogue containing a brief discovery of the most eminent cheats, robberies and other extravagancies by him committed ... : to which is added a canting dictionary words now in use with beggars and gypsies.</title>
+                  <author>Head, Richard, 1637?-1686?</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>This is probably a very much abridged and changed version of part 1 of The English rogue.  Aspects of the story are the same.  On p. 22 a second part to follow is mentioned.  This may be a reissue of the abridgement mentioned in DNB.</note>
+                  <note>Wing number E3115A does not appear in Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99340:1" rendition="simple:additions"/>
+            <pb facs="tcp:99340:1"/>
+            <p>THE Engliſh Rogue</p>
+            <p>Containing a brief Diſcovery of the moſt Eminent Cheats, Robberies, <hi>and other</hi> Extravagan<g ref="char:EOLunhyphen"/>cies, by him Committed, &amp;c.</p>
+            <p>To which is added a <hi>CANTING Dictionary</hi> Words now in uſe with <hi>Beggars</hi> and <hi>Gypſies.</hi>
+            </p>
+            <figure>
+               <figDesc>Two mounted highwaymen, one firing a pistol at the other and that one brandishing a sword at him</figDesc>
+               <q>
+                  <l>Read, but take heed that you ſuch actions ſhun</l>
+                  <l>For Honeſty is beſt when all is done.</l>
+               </q>
+            </figure>
+            <p>Licenſed according to Order.</p>
+            <p>printed for <hi>J. Blare,</hi> at the <hi>Looking-Glaſs,</hi> on <hi>London-Bridge,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99340:2"/>
+            <pb facs="tcp:99340:2" rendition="simple:additions"/>
+            <div type="introduction">
+               <head>THE <hi>Engliſh Rogue,</hi> &amp;c.</head>
+               <head type="sub">An <hi>Introduction</hi> to the following Diſcourſe.</head>
+               <p>OUr <hi>Witty Extravagant</hi> (of whom this following Tract is to give Relation of, and whoſe Matchleſs Contrivance, tending to all manner of Vice, <hi>Guſ<g ref="char:EOLhyphen"/>man, Lazarillo de Tormes,</hi> and all others Re<g ref="char:EOLhyphen"/>markable for ſuch like Villanies, are compell'd, as being out-done, to ſtrike Sail) was Born of Engliſh Parents, whoſe care was great in the bringing up of this their hopeful Son; but the Planet <hi>Mercury</hi> was ſo predominant at the hour of his Nativity, as preſag'd him not to be cut out for Plow-Jobbing (ſuch as his Anceſtors were) but for more Politick Deſigns; who now having attain'd the Eighth Year of his Age, wee'l give him leave to relate all his Knight, Errand Attempts from his own Mouth.</p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="2" facs="tcp:99340:3" rendition="simple:additions"/>
+               <head>CHAP. I. Shewing how he ſerv'd his Fathers Turkies, his Cheating a Woman of a Basket of Cherries, his being plac'd in a Boarding-School, and his miſchievous Tranſactions there.</head>
+               <p>My firſt Martial Attempt was this; My Father keeping ſeveral Turkies, one above the reſt generally Aſſaulted my Bread and Butter, for Revenge, I con<g ref="char:EOLhyphen"/>triv'd this Stratagem; I tempted him with Bread and Butter in my Hand, to the Orchard Gate, holding it ſo as for the Turkey juſt to put his Head through, holding the Bait for him to catch at, which no ſooner done, but clapping the Gate, ſur<g ref="char:EOLhyphen"/>priz'd my mortal Foe, and with my Cat-ſtick ſoon beat his Brains out; which done, I deplum'd his Tayl, ſticking the Feathers in my Cap, as a glory to my Tryumphant Conqueſt: At another time (coming thro' a Market) obſerving a Woman with a Baſ<g ref="char:EOLhyphen"/>ket of Cherries; I ask't her what ſhe would have for as many as I could take up in both my Hands? ſhe anſwer'd <hi>Two Pence;</hi> ſo I gave it her, and took up Baſsket Cher<g ref="char:EOLhyphen"/>ries and all, and walkt away: the Woman
+<pb n="3" facs="tcp:99340:3"/>amaz'd, follow'd me, making a great Our cry; at laſt, a Gentleman examining the Matter, I told him the Contract, who ad<g ref="char:EOLhyphen"/>miring my Policy, gave the Cauſe (it be<g ref="char:EOLhyphen"/>ing left to his deciſion by conſent) on my ſide, but withal, paid the Woman the whole worth of her Cherries. Thus being incou<g ref="char:EOLhyphen"/>raged, I tenter-hook't my Inventions to pleaſe my Appetite, continuing my daily Waggeries, as Robbing of Orchards, pul<g ref="char:EOLhyphen"/>ling the firſt and ſeconds of 40 or 50 Geeſe at a time, milking the Goats or Cows into my Hat, and ſo drink the Milk, and then at Night haunting the Hen-rooſts, where if the Hens cackl'd too much, I made their Eggs ſatisfie for their Heads. If at any time Geeſe came in my way, our came my ſhort. Stick with a ſtring and Bullet at the end of it, which twirling about their Necks ſoon brought my Prey.</p>
+               <p>For the ſpeedy conveyance away of all theſe things, I had a truſty-Trout, an <hi>Ale-Houſe Keeper</hi> hard by, who giving me now and then ſix-pence for that which was worth a Crown, and feaſting me withal, made it a very good Recompence to me: But this Trade was too hot to hold, for the daily Complaints made by the Neighbourhood, ſo incens'd my Parents, that (to prevent my future Miſdemeanours) I was ſtraight<g ref="char:EOLhyphen"/>way
+<pb n="4" facs="tcp:99340:4" rendition="simple:additions"/>placed in a <hi>Boarding-School,</hi> under the Tuition of a ſtern and rigid Maſter; nei<g ref="char:EOLhyphen"/>ther could this deter my Natural Inclina<g ref="char:EOLhyphen"/>tions, for (having new matter to work on) I ſoon became a Book-Worm, having ſo many ways to Metamorphize a Book, that the Owner thereof ſhould not know it again; if New I would gaſh their Skins, if much us'd tear out all the Remarks, painting their old Faces, and ſo make Sale of 'em, having my Factors for theſe as well as the before-mention'd Merchandizes. At laſt, what with Complaints from the Schollars, the daily Admonitions of my Mother, and the hourly Baſtinado's from my Maſter, I reſolv'd to quit this my not-to-be-endur'd-li<g ref="char:EOLhyphen"/>ving, and to ſeek my Fortune as the Fates ſhould direct.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. He runs away from his Parents, Enrolls himſelf in a Gang of <hi>Gypſies,</hi> and gives you the choi<g ref="char:EOLhyphen"/>ceſt of their <hi>Canting Words,</hi> with the mean<g ref="char:EOLhyphen"/>ing of them in plain Engliſh.</head>
+               <p>TWas in the Month of <hi>July</hi> I took my intended Progreſs: the firſt Dinner I had was upon <hi>Black-berries;</hi> Night ap<g ref="char:EOLhyphen"/>proaching,
+<pb n="5" facs="tcp:99340:4"/>I began to wiſh for the Fleſh<g ref="char:EOLhyphen"/>pots, together with a ſoft Feather-bed to refreſh my weary Limbs on; but theſe wi<g ref="char:EOLhyphen"/>ſhes were in vain; no food but Black-ber<g ref="char:EOLhyphen"/>ries, and ſuch like, no Lodging but what a Barn preſented; when entring therein, I beheld a great many ſtrange Creatures, and talking in a Language I underſtood not: we were all equally ſurpriz'd, at laſt they told me, <hi>that they were Gypſies, and if I would be of their Gang and take part of their Fortunes, they would be glad of my Company;</hi> to which I conſented, and the next day being ſtript out of my <hi>Holy-day-Habit,</hi> into Tatters and Rogs, I became one of the Fraternity, ha<g ref="char:EOLhyphen"/>ving my Face ſo be-daub'd with Green <hi>Wallnuts,</hi> that I lookt as much like a Gyp<g ref="char:EOLhyphen"/>ſie as the beſt of 'em: And that I might be perfect in their <hi>Canting Words,</hi> I had a Scroll given me of the moſt material things neceſſary to be known by thoſe of this Pro<g ref="char:EOLhyphen"/>feſſion; which take as follows.
+<list>
+                     <label>AUtem mort.</label>
+                     <item>A Married Woman.</item>
+                     <label>Booſe.</label>
+                     <item>Drink.</item>
+                     <label>Bouzing Ken.</label>
+                     <item>An Alt-houſe.</item>
+                     <label>Boarde.</label>
+                     <item>A Shilling.</item>
+                     <label>Bounge.</label>
+                     <item>A Purſe.</item>
+                     <label>Bufe.</label>
+                     <item>A Dog.</item>
+                     <label>Bleating Cheat.</label>
+                     <item>A Sheep.</item>
+                     <label>
+                        <pb n="6" facs="tcp:99340:5" rendition="simple:additions"/> Betty.</label>
+                     <item>An Inſtrument to break a Door.</item>
+                     <label>Budge.</label>
+                     <item>One that ſteals Cloaks.</item>
+                     <label>Buckle and File.</label>
+                     <item>Pick Pocket &amp; his Mate.</item>
+                     <label>Cove.</label>
+                     <item>A Man.</item>
+                     <label>Cuffin quire.</label>
+                     <item>A Iuſtice of Peace.</item>
+                     <label>Cramp Rings.</label>
+                     <item>Bolts or Shakles.</item>
+                     <label>Chats.</label>
+                     <item>The Gallows.</item>
+                     <label>Crackmans.</label>
+                     <item>Hedges.</item>
+                     <label>Couch a Hogs-head.</label>
+                     <item>Go to ſleep.</item>
+                     <label>Cackling-cheat.</label>
+                     <item>A Chicken.</item>
+                     <label>Caſſan.</label>
+                     <item>Cheeſe.</item>
+                     <label>Craſh.</label>
+                     <item>To Kill.</item>
+                     <label>Cloy</label>
+                     <item>To Steal.</item>
+                     <label>Cly the Jerk.</label>
+                     <item>To be whipt.</item>
+                     <label>Clapper-dudgeon.</label>
+                     <item>A Beggar born.</item>
+                     <label>Cully.</label>
+                     <item>A ſoft-pated Fellow.</item>
+                     <label>Duds.</label>
+                     <item>Goods.</item>
+                     <label>Doxy.</label>
+                     <item>A Wench.</item>
+                     <label>Dueſwins.</label>
+                     <item>Two pence.</item>
+                     <label>Fambles.</label>
+                     <item>Hands.</item>
+                     <label>Famble-Cheats.</label>
+                     <item>Rings or Gloves.</item>
+                     <label>Flag.</label>
+                     <item>A Groat.</item>
+                     <label>Fogus.</label>
+                     <item>Tobacco.</item>
+                     <label>Glimmer.</label>
+                     <item>Fire.</item>
+                     <label>Gilt.</label>
+                     <item>A Pick-Lock.</item>
+                     <label>Harmanbeck.</label>
+                     <item>A Conſtable.</item>
+                     <label>Harmans.</label>
+                     <item>The Stocks.</item>
+                     <label>Heave a Booth.</label>
+                     <item>To Rob an Houſe.</item>
+                     <label>Half-board.</label>
+                     <item>Six-pence.</item>
+                     <label>
+                        <pb n="7" facs="tcp:99340:5"/> Hearts-eaſe.</label>
+                     <item>A twenty Shilling piece</item>
+                     <label>Ken.</label>
+                     <item>An Houſe.</item>
+                     <label>Knapper of Knappers.</label>
+                     <item>A Sheep-ſtealer.</item>
+                     <label>Kate.</label>
+                     <item>A Pick-lock.</item>
+                     <label>Lowre.</label>
+                     <item>Money.</item>
+                     <label>Libben.</label>
+                     <item>A Houſe to lye in.</item>
+                     <label>Maunder.</label>
+                     <item>To beg.</item>
+                     <label>Margery Prater.</label>
+                     <item>An Hen.</item>
+                     <label>Make.</label>
+                     <item>An Half-penny.</item>
+                     <label>Mint.</label>
+                     <item>Gold.</item>
+                     <label>Prancer.</label>
+                     <item>An Horſe.</item>
+                     <label>Prigger of Prancers.</label>
+                     <item>Horſe ſtealers.</item>
+                     <label>Rome-Padders.</label>
+                     <item>High-way-padders.</item>
+                     <label>Togeman.</label>
+                     <item>A Cloak.</item>
+                  </list>
+               </p>
+               <p>Thus have I given you a taſte of the <hi>Can<g ref="char:EOLhyphen"/>ting-Tongue,</hi> and having continued with 'um a ſmall time, I abandon'd their Company to ſeek out other Adventures.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. He leaves the <hi>Gypſies</hi> and begs by himſelf, a <hi>Merchant</hi> likes him and takes him Appren<g ref="char:EOLhyphen"/>tice, he gets the <hi>Maid</hi> of the Houſe with Child, and then goes for <hi>Ireland.</hi>
+               </head>
+               <p>Thus quitting my <hi>Canting-Crew,</hi> I re<g ref="char:EOLhyphen"/>ſolv'd to ſet up for my ſelf; when com<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:99340:6" rendition="simple:additions"/>to <hi>London,</hi> and getting Acquaintance with a ſturdy Beggar we ſtraight went to a <hi>Boozing-Ken</hi> and bubb'd rumly, conclu<g ref="char:EOLhyphen"/>ding an Everlaſting Friendſhip: he having inſtructed me in the <hi>Maunding-Trade,</hi> next morning we took our Stands in <hi>More-fields,</hi> ſome diſtance from each other; where I ſoon began, <hi>With a God bleſs you Maſter, and let Heaven Reward what you have here done on Earth;</hi> with theſe and ſuch like Speeches did we get ſtore of Money from Charitable Perſons: when one day as I was begging, a Merchant coming by and obſerving me to be a ſtubbed Fellow, offer'd me a Service if I would live with him; to which I ſoon agreed, came to his Houſe, was ſtript from my ſtags, good Cloaths put on, and ſoon af<g ref="char:EOLhyphen"/>ter was bound Apprentice to him, with whom I might have liv'd in a happy Con<g ref="char:EOLhyphen"/>dition, but that my too forward Lechery was the unhappy cauſe of my Misfortune; for ſcarce had I ſerv'd four Months of my Time, but that I had ſo far inſinuated into the Maids favour, as to become now and then her Bedfellow; but this our Noctur<g ref="char:EOLhyphen"/>nal Dalliances was of ſmall continuance: for ſhe coming to me one day when I was a<g ref="char:EOLhyphen"/>lone, after many Heart-fetcht Sighs, told me, <hi>That ſhe was with Child;</hi> I thought I ſhould have dy'd with this ſurprizing
+<pb n="9" facs="tcp:99340:6"/>News; however, to ſet the beſt ſide out<g ref="char:EOLhyphen"/>wards, I bid her be of good cheer, and that I would take ſuch care as ſhe ſhould not be diſgrac'd, telling her I had Wealthy Pa<g ref="char:EOLhyphen"/>rents living in the Country (far enough you may imagine) where I would in a ſhort time ſend her, there to lye-Inn, and that I would quit my Service ſoon after, come down into the Country and marry her, not queſtioning but to live well together, ad<g ref="char:EOLhyphen"/>viſing her to lace her ſelf very ſtraight, and keep down her growing Belly with two or three Busks: the poor Soul not imagining the Denom which lay under theſe fair ſpeeches, in keeping her in ſuſpence, until I had an opportunity to rub off, which ſoon after hapned; my Maſter and Miſtriſs be<g ref="char:EOLhyphen"/>ing abſent, it fortun'd that I took for Wares that day about Threeſcore Pound Sterling; over-joy'd with this Succeſs, I pack't up Bag and Baggage, reſolving for <hi>Ireland,</hi> far enough out of my Maſters reach: All things favouring my Deſign, in three Weeks I arriv'd there, when changing my Name as well as Habit, the next Chapter makes mention of my Extravagant Tranſ<g ref="char:EOLhyphen"/>actions.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="10" facs="tcp:99340:7" rendition="simple:additions"/>
+               <head>CHAP. IV. In <hi>Ireland</hi> he was Cheated of all his Money, the ways he had to get more, he comes into <hi>England</hi> again, and turns <hi>Highway-man.</hi>
+               </head>
+               <p>THE next day after my Arrival in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> I ſent for a <hi>Barber</hi> to Shave my Hair off, buying a Periwig contrary to the colour of my own Hair, in order that if I met any one that was of my Acquaintance, or fatal Meſſenger from my Maſter, they might not know me: the truth o'nt is, in this Diſguiſe I knew not my ſelf; for when my Landlady where I lodg'd, call'd me by the new Name I gave my ſelf, I ei<g ref="char:EOLhyphen"/>ther ſtar'd upon her, or look't another way, (thinking ſhe had ſpoke to ſome body elſe) at laſt, fearing this would betray me, I pre<g ref="char:EOLhyphen"/>tended my ſelf Deaf, which Apology took away all ſuſpition. In this manner I li<g ref="char:EOLhyphen"/>ved a Month, frequenting <hi>Taverns, Ale-Hou<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Brothel-Houſes,</hi> when in one of thoſe places I met with a perſon who bubbl'd me at <hi>Hazard</hi> (a certain Play with <hi>Dice</hi>) not leaving me one Penny, but withal he was ſo kind (curſe of his favour) as to diſ<g ref="char:EOLhyphen"/>charge the whole ſhot. Now I leave any
+<pb n="11" facs="tcp:99340:7"/>one to judge the deplorableneſs of my Con<g ref="char:EOLhyphen"/>dition, who had neither Monies, Friends, nor Credit, and in a place utterly unac<g ref="char:EOLhyphen"/>quainted with their Language. But (tho' Fortune frown'd at this Juncture,) yet in a turn I was on the top of her Wheel again, for now being reduced to ſtretch my Wits, I thus put them in Practice. Wealthy and Aged Widdows, or Thrifty Maids, who had laid up what they had gotten in Ser<g ref="char:EOLhyphen"/>vice, as a Bait to procure an Husband, ſuch did I daily hunt out and viſit 'em by turns: I was not ſparing of Amorous Expreſſi<g ref="char:EOLhyphen"/>ons, by which means I deluded ſeveral, ſome I was forc'd to give Earneſt to for their Goods, before they would truſt me with what they had: This courſe I follow'd 'till I was taken notice of for a grand Deceiver.</p>
+               <p>Having now gotten a round Sum of Mo<g ref="char:EOLhyphen"/>ney by me, I reſolv'd to return into <hi>England,</hi> this place being now too hot for me: ſo croſ<g ref="char:EOLhyphen"/>ſing St. <hi>Georges</hi> Channel, in 24 hours I land<g ref="char:EOLhyphen"/>ed at <hi>Cheſter;</hi> the next day proving Market<g ref="char:EOLhyphen"/>day, I bought an excellent Gelding, with Sword, Piſtols, and other Furniture. In this Equipage mounted, I took leave of the place, intending to be a Knight of the Road; I had not rode far, before three mounted rode by me (I found them afterwards to be the Van-guard) having as many more in
+<pb n="12" facs="tcp:99340:8" rendition="simple:additions"/>the Rear. At the bottom of an Hill they be<g ref="char:EOLhyphen"/>fore fac'd about, bidding me <hi>Stand,</hi> in the in<g ref="char:EOLhyphen"/>terim thoſe behind came up, ſo I ſaw 'twas in vain to reſiſt, but told them, <hi>I wonder'd they would rob one of their profeſſion;</hi> when they ſearching me, and finding good ſtore of Money, they asked me where I had it? I anſwer'd, <hi>'Twas not an hour ſince I met with a Booty, this being it, and that, if they pleas'd, I would willingly Enrol my ſelf in their Fraternity;</hi> They ſeeing me well Arm'd, and of a port<g ref="char:EOLhyphen"/>ly Stature, conſented, and away we rode to the next Inn, to make merry at my new Admittance.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. He and his Companions commit two Robberies, he diſlikes their Company, and Robs by himſelf.</head>
+               <p>COming into a private Room, they pull'd off their <hi>Falſe-Beards, Vizards, Hoods, Patches, Wens, Muffles</hi> and <hi>Perriwigs</hi> with o<g ref="char:EOLhyphen"/>ther Diſguiſes, ſo that they appear'd as o<g ref="char:EOLhyphen"/>ther Men, which done, <hi>Come,</hi> ſays the Ma<g ref="char:EOLhyphen"/>ſter-Thief, <hi>I perceive you are a freſh Man and therefore want ſome Inſtructions as well as Diſ<g ref="char:EOLhyphen"/>guiſes,</hi> which he imparted to me in a plenti<g ref="char:EOLhyphen"/>ful manner, and after that I was adopted a
+<pb n="13" facs="tcp:99340:8"/>ſworn Brother: Fraught with theſe Devi<g ref="char:EOLhyphen"/>ces, and well liquor'd with Sack, we all re<g ref="char:EOLhyphen"/>ſolv'd to attempt ſome Enterprize that Eve<g ref="char:EOLhyphen"/>ning: ſo about ſix a Clock we planted our ſelves in a convenient place, and I only was ſent out for a Diſcoverer: not rightly underſtanding my Trade, I rambled too far, however I met with a ſingle perſon whom I bid Stand, which he would have done, and ſurrender'd his Purſe, only he was on a Stone horſe, I on a Mare; the word was no ſooner ſpoke, but his Stone horſe wheel'd off and came in the rear of me (for there was ſomething it ſeems under my Mares Tayl very powerful, which I then thought not of; I led him round ſeveral times, till the poor Gentleman (fearing he had provok'd me by theſe delays, which his Horſe was the cauſe of) cry'd out, <hi>Worthy Sir, take what I have and ſpare my Life;</hi> at that very inſtant his Horſe rear'd his two fore Feet upon me and my Mare, inſomuch that I thought he ſaid, <hi>I'le take both Life and Money too preſently;</hi> fear had then rendred me ſo incapable of perform<g ref="char:EOLhyphen"/>ing the Office of a Thief, that putting ſpurs to my Mare, I fled for ſafety, notwith<g ref="char:EOLhyphen"/>ſtanding the Stone-horſe was ſtill cloſe at my Heels; thus diſorderly flying, one of my Piſtols went off, which I thought my back-friend had diſcharged at me, which
+<pb n="14" facs="tcp:99340:9" rendition="simple:additions"/>made me roar out for Quarter; he on the o<g ref="char:EOLhyphen"/>ther ſide cry'd out, <hi>As you are a Man ſhow your<g ref="char:EOLhyphen"/>ſelf merciful,</hi> ſaying, <hi>Good Sir ſtop,</hi> I think<g ref="char:EOLhyphen"/>ing he call'd after me, <hi>hold him, ſtop him;</hi> do what I could, his Horſe leayt upon us: at which time (by what means I know not we all came Headlong to the ground; I ex<g ref="char:EOLunhyphen"/>pected now nothing but Death, but recove<g ref="char:EOLhyphen"/>ring, and finding my Adverſary upon the run, I could have hang'd my ſelf to think I ſhould be accounted a Man, and yet wan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Courage anſwerable: however, I ſoon overtook him, made my ſelf Maſter of his Wealth, and ſo ſent him packing. Whilſt I was framing a Lye to tell my Comrades how Daliantly I behav'd my ſelf in this Encounter, they were all on a ſuddain at my Elbow, applauding my Courage for run<g ref="char:EOLhyphen"/>ning away at the ſound of <hi>Good Sir be merci<g ref="char:EOLhyphen"/>ful,</hi> and ſeveral other Ieers; I ſhould ne<g ref="char:EOLunhyphen"/>ver have ſtopt their mouths, had I not ſhow'd 'um what I took from him, which was very conſiderable. About twilight w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> met with another prize, but different from the before-mention'd; for we four meeting with five Men, and bidding them <hi>Stand,</hi> they ſtoutly reſiſted, which put us hard to't <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one of our Company being Wounded, yet we overcame 'em, driving them into a Wood I at that time learning to ſearch with ſuch
+<pb n="15" facs="tcp:99340:9"/>care, that not a penny or anything valuable could be kept from me; with theſe Booties we repair'd to our Inn, where our Hoſt calls luſtily for Sack, which the Drawer doubles in the Bar; the Hoſtler muſt be one of the Company too, who expects a ſnack, which we dare not deny, leſt he betray us: their with what we are oblig'd to give the Ser<g ref="char:EOLhyphen"/>vants, and offer'd up our Sacrifices to the Landlady for ſome ſmall favours receiv'd, we find in concluſion, we rob for them and not for our ſelves; which I perceiving, and having now ſome Experience, I reſolv'd to ſet up for my ſelf.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. He gets a Farmers Daughter with Child, and Robs her Father of all his Gold, <hi>&amp;c.</hi>
+               </head>
+               <p>SCouring the Road, I met with a Young Maid with a Milk-Pail on her Head, obſerving her to be more than ordinary handſome, I fell into ſome Diſcourſe with her: As ſhe was opening a Gate to Milk her Cows, I follow'd, diſmounting, ty'd my Horſe to a Hedge, begging her Excuſe for my rudeneſs; I at laſt ſate down by her, and after many powerful perſwaſions, tend<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:99340:10" rendition="simple:additions"/>to Love affairs, ſhe ſuffer'd me to crop her Dirgin-Fruit: We then grew ſome<g ref="char:EOLhyphen"/>thing more familiar, but the burthen of the Song was, <hi>I had undone her,</hi> which I leave to any reaſonable perſon to judge; we con<g ref="char:EOLhyphen"/>cluded ſhe ſhould go home, and at night I was to come to her Fathers Houſe, pretend<g ref="char:EOLhyphen"/>ing I was a ſtranger on that Road, and had loſt my way, deſiring a Lodging for that Night: all things perform'd accordingly, her Father gave the Entertainment for that Night, which was ſpent in ſweet Embraces with his Daughter, contrary to the good Old Mans expectation. When the morn<g ref="char:EOLhyphen"/>ing appear'd, I was put to my Shifts how to contrive a longer ſtay, at length, with the Daughters Advice, I was to pretend In<g ref="char:EOLhyphen"/>diſpoſition of Body, and not able to Travel, which I did, and was deſired by the old Folks to ſtay as long as I pleas'd: but fie on ill Luck, the next night diſcover'd the Intreague. The Daughter and I ſtaying up till the reſt were in Bed, and being too imprudently haſty in the Kitchin, ſtumbled againſt two Barrels, pil'd one upon ano<g ref="char:EOLhyphen"/>ther, ſo that they fell; the Old Man not be<g ref="char:EOLhyphen"/>ing aſleep, imagining Thieves had broke in, ſo that before we could get diſ-engag'd, he took us napping, by the light of ſome <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all Fire left in the Chimney: I deſired
+<pb n="17" facs="tcp:99340:10"/>him to be ſilent, and not ſpread his Daugh<g ref="char:EOLhyphen"/>ters diſgrace, for in a few days I would Marry her: I ſtayed afterwards about ſome three days to colour the matter, but 'twas chiefly to know where her Fathers treaſure lay, which I ſo cunningly ſifted from the Daughter, that I ſoon had it in my poſſeſſion, and ſo marcht off incogni<g ref="char:EOLhyphen"/>to.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. He lights of a Female Robber in Mans Habit, he goes to her Houſe, and agrees to Rob with her.</head>
+               <p>THus abruptly taking my leave, of the Farmer and his kind Daughter, I rid a long time, meeting with nothing worthy of obſervation; being weary, I ſtruck in<g ref="char:EOLhyphen"/>to an Inn, where refreſhing my ſelf, and the Evening approaching, I mounted, and ſo put on; when paſſing by a ſmall Coppice, in a bottom between two hills, a Gentle<g ref="char:EOLhyphen"/>man (as I ſuppoſed) ſtarted out upon me, ſaying, <hi>Stand, and deliver;</hi> With that I drew a Piſtol and fir'd at him, he doing the ſame by me, and ſo till we had diſcharg'd two at each other; which laſt Shots happening o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:99340:11" rendition="simple:additions"/>our Horſes heads, they became ſo unruly, that we were forc'd to alight and draw our Swords, when my adverſary making a di<g ref="char:EOLhyphen"/>rect thruſt, I put it by, clos'd with him, and, upon the hug, threw him with much facility: I wonder'd much at it (which I need not have done, ſince his nature (as af<g ref="char:EOLhyphen"/>terward I underſtood) was ſo prone to it;) Sir, ſaid I, <hi>this will teach you hereafter to be<g ref="char:EOLhyphen"/>ware on whom you ſet;</hi> With that, unbutton<g ref="char:EOLhyphen"/>ing his Doublet to find if there was any Gold quilted therein, I wonder'd to ſee ſo large a pair of Breaſts, and much whiter than any Mans: at length going to ſearch his Breeches, and proffering to remove his Shirt from between his leggs, he ſuddenly cry'd out (ſtriving to lay his hand there) I <hi>pray Sir be civil:</hi> imagining that ſome choice treaſure lay there obſcured, I pull'd up his Shirt (<hi>alias</hi> Smock) and found my ſelf not much miſtaken: this ſight ſurpriz'd me, but after a little pauſe, I unbound her, and taking her up in my arms, <hi>Pardon me, moſt Couragious <hi>Amazon,</hi>
+                  </hi> ſays I, <hi>for thus rudely uſing you, 'twas nothing but ignorance in me; and ſince I find ſo much courage in a Woman, for your ſake I ſhall ever retain a good eſteem for the worſt of Females.</hi> She told me the place was not proper for Complements, but if I would follow her ſhe would retaliate my
+<pb n="19" facs="tcp:99340:11"/>kindneſs: I ſoon agréed, and being led tho<g ref="char:EOLhyphen"/>rough many obſcure paſſages, we came to a Wood, in the midſt whereof ſtood a houſe; at our approach, the Servants were all in a hurry who ſhould firſt obey <hi>Mrs. Virago's</hi> commands, but wonder'd to ſee St. <hi>Gorge,</hi> and his truſty Eſquire on foot, for our Hor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> were kill'd; where after Supper, Bottles and Pipes ſupplying the place of the Diſh<g ref="char:EOLhyphen"/>es, ſhe laid her ſelf open to me, having be<g ref="char:EOLhyphen"/>fore made my ſelf acquainted with her greateſt ſecret.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. He commits ſome Robberies, is taken and put in<g ref="char:EOLhyphen"/>to <hi>Newgate,</hi> is Tranſported, but makes his Eſcape.</head>
+               <p>THere were in this place three Siſters, whereof my <hi>Virago</hi> was one, they ha<g ref="char:EOLhyphen"/>ving arriv'd to a ripe age, were all Marri<g ref="char:EOLhyphen"/>ed to Shop-keepers, whoſe inſiped Noddles not brooking thoſe Heroick Spirits, was the occaſion of many fallings out, at laſt theſe three Siſters, having provided Fur<g ref="char:EOLhyphen"/>niture accordingly, and putting on Mens Cloaths, unanimouſly agreed to Intitle themſelves Squires of the Pad, Robbing
+<pb n="20" facs="tcp:99340:12" rendition="simple:additions"/>with what advantage they cou'd, &amp; ſo take their fate: this courſe had they follow'd for above three years, when my late adventure brought me to their Houſe, and I being mightily pleas'd with their Company, I a<g ref="char:EOLhyphen"/>greed to ſtay and Rob with them for ſome time: After a great many Contrivances, this we agreed on, one of the Siſters was to be in Mans Apparel, the other two in Womens, and ſo to Ride double as Men &amp; their Wives to prevent ſuſpicion: ſo ha<g ref="char:EOLhyphen"/>ving got Pillions, Safeguards and ſhort Swords for the Famales, we ſet forwards: Vpon the Rove about five that Evening, o<g ref="char:EOLhyphen"/>vertook us four Gentlemen, coming cloſe up to us, our two ſubtil Gypſies ſhow'd great fear of being Rob'd, ſpeaking with<g ref="char:EOLhyphen"/>al ſo loud, that one of the Gentlemen hear<g ref="char:EOLhyphen"/>ing, rid up to us, bidding her not be afraid, for they were <hi>Londoners,</hi> riding out for their pleaſure; &amp; that they would venture their Lives in our defence: and Ride before to ſtand between us &amp; danger: I was glad to hear they'd lead the way, for now our work was half done: my Brother, as I called him, coming up cloſe to me, I gave him directions that at the foot of ſuch a Dill, he ſhould out with his ſhort Truncheon, and make ſure work with one, at which in<g ref="char:EOLhyphen"/>ſtant I would be ſure to do the ſame by a<g ref="char:EOLhyphen"/>nother;
+<pb n="21" facs="tcp:99340:12"/>we watcht our opportunity ſo ex<g ref="char:EOLhyphen"/>actly, that we ſoon accompliſht our deſign, for accordingly at the foot of the Hill with our Truncheons diſcharged upon two of their heads, they came tumbling to the ground, (the other two being a pretty way before knowing nothing of it) Our Women, diſmounting as ſwift as Lightning, ſoon made them incapable of riſing again, whilſt we, ſetting Spurs to our Horſes, ſoon over<g ref="char:EOLhyphen"/>took the other two who was before, who much admired to ſee our Swords and Pi<g ref="char:EOLhyphen"/>ſtols in hands ready for Execution, howe<g ref="char:EOLhyphen"/>ver we ſoon put them out of their doubt, for compelling them to deliver, we diſmounted them, and cutting their Girts and Bridles, we conveyed them to a ſecret place, putting the Horſes into a field, the Men we Gagg'd, bound their hands, and ſo drove 'um into a Wood, our Females having ſerv'd the two other in the ſame manner; Having a booty anſwerable to our deſire, we mounted, and returned to our old Quarters:</p>
+               <p>With them I continued a conſiderable time, living in all manner of Debauchery, ſo that being ſatiated with exceſs I reſol<g ref="char:EOLhyphen"/>ved to leave them, which I ſoon did, by pre<g ref="char:EOLhyphen"/>tending a little private buſineſs abroad, &amp; ſo Rode clear away: But I ſoon repented it, for attempting to Rob a Gentleman, there
+<pb n="22" facs="tcp:99340:13" rendition="simple:additions"/>came immediately five or ſix more to his reſcue, ſo that do what I could, I was ta<g ref="char:EOLhyphen"/>ken, clapt up in <hi>Newgate,</hi> at my Tryal the Evedence being clear, I was only order'd for Tranſportation: In our paſſage we ſuf<g ref="char:EOLhyphen"/>fered Shipwrack, but as the Proverb goes, <hi>He that's born to be Hang'd ſhall ne'r be Drow<g ref="char:EOLhyphen"/>ned,</hi> ſo I eſcap't tho' many others periſhed; When getting aſhore I was ſoon out of reach of my Guardian, and now am I put to my Shifts once again, which ſhall be re<g ref="char:EOLhyphen"/>lated in a Second Part, according as this finds acceptance in the World:</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </div>
+            <epigraph>
+               <q>
+                  <l>Thus being Baniſht from my Native Land,</l>
+                  <l>The Second part ſhall let you underſtand,</l>
+                  <l>The grand Intreagues I us'd beyond the Main,</l>
+                  <l>Till I return'd to <hi>England</hi> back again.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
